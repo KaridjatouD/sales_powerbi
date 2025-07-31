@@ -37,7 +37,7 @@ This page includes interactive filters (year and month) and provides deeper insi
     * Map showing number of orders per states (with color intensity)
     * Bar chart: Top 5 states by order volume
 
-# Page 3 — Product Insights
+### **Page 3 — Product Insights**
 This page focuses on product performance:
 * KPIs:
     * Total number of orders
