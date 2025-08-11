@@ -60,6 +60,7 @@ This page focuses on product performance:
 ## File
 
 - [Screenshots of dashboard](Screenshots)
+- [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzFiMTkzMzYtZjRkNi00ZGE5LWFkNDUtMmVlZjM5NGI2N2QzIiwidCI6Ijg3OTVlZGU2LWNlNWUtNDk2OC04NDljLWYwMTgxMzhlZDJjMCIsImMiOjF9)
 
 
 ## Author
